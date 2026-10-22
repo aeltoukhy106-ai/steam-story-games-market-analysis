@@ -44,3 +44,13 @@ An end-to-end Data Analytics project analyzing the market performance, pricing s
 ├── Steam Story-Rich Games Market Analysis.pbix # Power BI Dashboard file
 └── dashboard_preview.png                     # Dashboard screenshot
 
+---
+
+## 🤖 AI Collaboration & Transparency Statement
+
+This project was developed with the assistance of **Gemini AI** serving as a Data Analytics & Engineering Thought Partner. AI assistance was utilized in:
+
+* **API Scraping & Error Handling:** Writing resilient Python scripts using `requests` and implementing fallback exception handling for API data parsing.
+* **Data Wrangling & Feature Engineering:** Developing Pandas pipelines for revenue estimation, price tier categorization, and metric normalization.
+* **DAX & Power BI Modeling:** Formulating explicit DAX measures (`Avg Review Score %`) and troubleshooting visual logic.
+* **Code Review & Debugging:** Optimizing execution times and resolving Windows security / file permission exceptions.
