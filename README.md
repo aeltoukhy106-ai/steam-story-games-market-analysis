@@ -42,8 +42,7 @@ An end-to-end Data Analytics project analyzing the market performance, pricing s
 ├── steam_story_games_cleaned.csv             # Cleaned dataset ready for BI
 ├── Steam Story-Rich Games Market Analysis.pbix # Power BI Dashboard file
 └── dashboard_preview.png                     # Dashboard screenshot
-
-
+```
 ---
 
 ##  AI Collaboration & Transparency Statement
