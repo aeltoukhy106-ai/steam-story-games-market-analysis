@@ -36,8 +36,11 @@ An end-to-end Data Analytics project analyzing the market performance, pricing s
 
 ##  Repository Structure
 ```text
-├── steam_story_games_scraper.py   # Python script for API data fetching
-├── steam_data_cleaning.ipynb      # Data wrangling & EDA notebook
-├── steam_story_games_cleaned.csv  # Cleaned dataset ready for BI
-├── Steam_Story_Games_Dashboard.pbix # Power BI Dashboard file
-└── dashboard_preview.png          # Dashboard screenshot
+##  Repository Structure
+```text
+├── py-steam games -data.ipynb                 # Python script for data fetching, cleaning & EDA
+├── steam_story_games_raw.csv                 # Raw dataset fetched via SteamSpy API
+├── steam_story_games_cleaned.csv             # Cleaned dataset ready for BI
+├── Steam Story-Rich Games Market Analysis.pbix # Power BI Dashboard file
+└── dashboard_preview.png                     # Dashboard screenshot
+
