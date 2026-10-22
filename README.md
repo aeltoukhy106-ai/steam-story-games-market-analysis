@@ -6,7 +6,8 @@ An end-to-end Data Analytics project analyzing the market performance, pricing s
 ---
 
 ##  Dashboard Preview
-![Dashboard Preview](Screenshot 2026-10-22 032718.png)
+![Dashboard Preview](Screenshot%202026-10-22%20032718.png)
+
 
 ---
 
