@@ -48,10 +48,11 @@ An end-to-end Data Analytics project analyzing the market performance, pricing s
 
 ##  AI Collaboration & Transparency Statement
 
-```text
 This project was developed with the assistance of **Gemini AI** serving as a Data Analytics & Engineering Thought Partner. AI assistance was utilized in:
 
-* **API Scraping & Error Handling:** Writing resilient Python scripts using `requests` and implementing fallback exception handling for API data parsing.
+* **API Scraping & Error Handling:** Writing resilient Python scripts using `requests` and implementing fallback exception handling.
 * **Data Wrangling & Feature Engineering:** Developing Pandas pipelines for revenue estimation, price tier categorization, and metric normalization.
 * **DAX & Power BI Modeling:** Formulating explicit DAX measures (`Avg Review Score %`) and troubleshooting visual logic.
+* **Code Review & Debugging:** Optimizing execution times and resolving Windows security / file permission exceptions.
+
 * **Code Review & Debugging:** Optimizing execution times and resolving Windows security / file permission exceptions.
