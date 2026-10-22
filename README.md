@@ -35,18 +35,18 @@ An end-to-end Data Analytics project analyzing the market performance, pricing s
 ---
 
 ##  Repository Structure
+
 ```text
-##  Repository Structure
-```text
-├── py-steam games -data.ipynb                 # Python script for data fetching, cleaning & EDA
+├── py-steam games -data.ipynb                # Python script for data fetching, cleaning & EDA
 ├── steam_story_games_raw.csv                 # Raw dataset fetched via SteamSpy API
 ├── steam_story_games_cleaned.csv             # Cleaned dataset ready for BI
 ├── Steam Story-Rich Games Market Analysis.pbix # Power BI Dashboard file
 └── dashboard_preview.png                     # Dashboard screenshot
 
+
 ---
 
-## 🤖 AI Collaboration & Transparency Statement
+##  AI Collaboration & Transparency Statement
 
 This project was developed with the assistance of **Gemini AI** serving as a Data Analytics & Engineering Thought Partner. AI assistance was utilized in:
 
